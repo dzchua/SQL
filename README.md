@@ -1,2 +1,2 @@
 # SQL
-Collection of SQL files
+SQL lines from Jupyter Notebook.
