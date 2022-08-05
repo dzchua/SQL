@@ -1,3 +1,3 @@
 # SQL
-SQL lines from Jupyter Notebook.
+SQL using Jupyter Notebook.
 Testing...
